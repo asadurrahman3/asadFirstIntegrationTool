@@ -7,7 +7,7 @@ public class Claculator implements CalInterface {
 		// TODO Auto-generated method stub
 		return num1 + num2; 
 	}
-
+                //asad
 	@Override
 	public int subtract(int num1, int num2) {
 		// TODO Auto-generated method stub
